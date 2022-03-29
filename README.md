@@ -1,4 +1,11 @@
-# lawyermanagementsystem
+# lawyermanagementsystem  
+
+Find-A-Lawyer website.
+
+Functionality
+This is a website with a database where people can find a suitable Lawyer for their company. 
+
+
 Introduction
 
 Before starting develop this project, I have tried to find some similar system. But I was not satisfied with any of them. Because those were not exactly what I was looking for. I found many informative sites where people are able to see some lawyer’s details. I also found some websites which are dedicated to one lawyers’ firm or association. But I wanted to build an open platform for lawyers. Where any lawyer from any location with any specialty will be able to register themselves. In other hand, public will be able to find their lawyers by filtering them in just few clicks on computer screen.  So, here through my system both side problem will be solved. In this documentation I have discussed many aspects in details below. I have added some diagrams to justify my system & some test cases to show the ability of my system.
